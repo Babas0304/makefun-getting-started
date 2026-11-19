@@ -1,8 +1,8 @@
 # Getting Started with make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/hamzah-bastian/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/hamzah-bastian/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/Babas0304/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/Babas0304/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > **Start here:** sign up with my referral link — [https://make.fun/r/edqg2he9](https://make.fun/r/edqg2he9)
 >
@@ -10,7 +10,7 @@
 
 This guide takes you from zero to your first submitted entry on make.fun in about an hour. No prior bounty experience needed. If you can run a terminal and talk to an AI coding agent, you can do this — and by the end you will have a real account, a real entry, and a referral link of your own to share.
 
-Repository: `hamzah-bastian/makefun-getting-started` — if the repo name ever changes, update it in the badge lines above and in the clone examples below, and nowhere else matters.
+Repository: `Babas0304/makefun-getting-started` — if the repo name ever changes, update it in the badge lines above and in the clone examples below, and nowhere else matters.
 
 ## Contents
 
